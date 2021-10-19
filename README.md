@@ -1,8 +1,11 @@
 # Gesture-volume-controller-GVC-
 
-Gesture Control to change the volume of a computer. We first look into hand tracking and then we will use the hand landmarks to find gesture of our hand to change the volume. This project is module based which means we will be using a previously created hand module which makes the hand tracking very easy.
+Gesture Control to change the volume of a computer. 
+We first look into hand tracking and then we will use the hand landmarks to find gesture of our hand to change the volume. 
+This project is module based which means we will be using a previously created hand module which makes the hand tracking very easy.
 Volume control system using gestures
-In this project we are going to learn how to use Gesture Control to change the volume of a computer. We first look into hand tracking and then we will use the hand landmarks to find gesture of our hand to change the volume.
+In this project we are going to learn how to use Gesture Control to change the volume of a computer.
+We first look into hand tracking and then we will use the hand landmarks to find gesture of our hand to change the volume.
 
 Introduction :
 This project is a use case of Hand Tracking technology.
